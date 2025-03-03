@@ -84,7 +84,7 @@ button:hover {
 .solar-system {
   display: flex;
   align-items: center;
-  gap: 60px; 
+  gap: 55px; 
   height: 100%;
   padding-left: 40px;
 }
@@ -101,8 +101,8 @@ button:hover {
 }
 
 .sun {
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 350px;
   background: radial-gradient(circle at 30% 30%, #ffb200 0%, #ff6a00 80%);
   box-shadow: 0 0 30px rgba(255, 200, 0, 0.8);
   animation: burnSun 3s ease-in-out infinite;
@@ -117,55 +117,55 @@ button:hover {
 .mercury {
   background: url("https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg") no-repeat center center;
   background-size: cover;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
 }
 
 .venus {
   background: url("https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg") no-repeat center center;
   background-size: cover;
-  width: 58px;
-  height: 58px;
+  width: 68px;
+  height: 68px;
 }
 
 .earth {
   background: url("https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg") no-repeat center center;
   background-size: cover;
-  width: 58px;
-  height: 58px;
+  width: 75px;
+  height: 75px;
 }
 
 .mars {
   background: url("https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg") no-repeat center center;
   background-size: cover;
-  width: 55px;
-  height: 55px;
+  width: 65px;
+  height: 65px;
 }
 
 .jupiter {
   background: url("https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg") no-repeat center center;
   background-size: cover;
-  width: 90px;
-  height: 90px;
+  width: 100px;
+  height: 100px;
 }
 
 .saturn {
   background: url("https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg") no-repeat center center;
   background-size: cover;
-  width: 140px;
-  height: 80px;
+  width: 150px;
+  height: 90px;
 }
 
 .uranus {
   background: url("https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg") no-repeat center center;
   background-size: cover;
-  width: 70px;
-  height: 70px;
+  width: 80px;
+  height: 80px;
 }
 
 .neptune {
   background: url("https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg") no-repeat center center;
   background-size: cover;
-  width: 70px;
-  height: 70px;
+  width: 80px;
+  height: 80px;
 }
